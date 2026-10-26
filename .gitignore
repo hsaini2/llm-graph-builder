@@ -178,3 +178,7 @@ startupfrontend.sh
 /crab
 .mcp.json
 mcp.json
+
+# Word temporary lock files
+~$*
+frontend-dev.log
